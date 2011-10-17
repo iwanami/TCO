@@ -1,0 +1,97 @@
+//données aleatoires
+Press ENTER to continue.
+debut du qsort avec 10 elements: 
+temps pris par le qsort: 0.000006 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000003 [s]
+debut du qsort avec 30 elements:
+temps pris par le qsort: 0.000005 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000005 [s]
+debut du qsort avec 100 elements: 
+temps pris par le qsort: 0.000019 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000017 [s]
+debut du qsort avec 300 elements:
+temps pris par le qsort: 0.000063 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000053 [s]
+debut du qsort avec 1000 elements: 
+temps pris par le qsort: 0.000203 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000177 [s]
+debut du qsort avec 3000 elements:
+temps pris par le qsort: 0.000680 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000555 [s]
+debut du qsort avec 10000 elements: 
+temps pris par le qsort: 0.002455 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.002024 [s]
+debut du qsort avec 30000 elements:
+temps pris par le qsort: 0.008229 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.006724 [s]
+debut du qsort avec 100000 elements: 
+temps pris par le qsort: 0.030353 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.024973 [s]
+debut du qsort avec 300000 elements:
+temps pris par le qsort: 0.099929 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.080542 [s]
+debut du qsort avec 1000000 elements: 
+temps pris par le qsort: 0.362909 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.291333 [s]
+debut du qsort avec 3000000 elements:
+temps pris par le qsort: 1.177169 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.938581 [s]
+debut du qsort avec 10000000 elements: 
+temps pris par le qsort: 4.228050 [s]
+debut du custom qsort
+temps pris par le custom qsort: 3.357030 [s]
+debut du qsort avec 30000000 elements:
+temps pris par le qsort: 13.564980 [s]
+debut du custom qsort
+temps pris par le custom qsort: 10.802311 [s]
+
+
+//donnees décroissantes
+debut du qsort avec 10 elements: 
+temps pris par le qsort: 0.000005 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000002 [s]
+debut du qsort avec 30 elements:
+temps pris par le qsort: 0.000005 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000004 [s]
+debut du qsort avec 100 elements: 
+temps pris par le qsort: 0.000013 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000025 [s]
+debut du qsort avec 300 elements:
+temps pris par le qsort: 0.000032 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.000202 [s]
+debut du qsort avec 1000 elements: 
+temps pris par le qsort: 0.000096 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.002123 [s]
+debut du qsort avec 3000 elements:
+temps pris par le qsort: 0.000281 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.019700 [s]
+debut du qsort avec 10000 elements: 
+temps pris par le qsort: 0.000994 [s]
+debut du custom qsort
+temps pris par le custom qsort: 0.242309 [s]
+debut du qsort avec 30000 elements:
+temps pris par le qsort: 0.003444 [s]
+debut du custom qsort
+temps pris par le custom qsort: 2.292255 [s]
+debut du qsort avec 100000 elements: 
+temps pris par le qsort: 0.009207 [s]
+debut du custom qsort
+temps pris par le custom qsort: 25.093002 [s]

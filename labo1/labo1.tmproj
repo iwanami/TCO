@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>labo1.c</string>
+	<string>labo1.cpp</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>filename</key>
-			<string>labo1.c</string>
+			<string>labo1.cpp</string>
 			<key>lastUsed</key>
-			<date>2011-09-27T14:00:27Z</date>
+			<date>2011-10-14T09:29:06Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
@@ -19,24 +19,24 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>labo1.c</key>
+		<key>labo1.cpp</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
 				<integer>20</integer>
 				<key>line</key>
-				<integer>10</integer>
+				<integer>8</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>72</integer>
+			<integer>126</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>labo1.c</string>
+		<string>labo1.cpp</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
